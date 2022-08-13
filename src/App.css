@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(to left, #4527af, #c2c2c2);
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+.incomplete {
+    text-decoration: none;
+}
+
+.box {
+    width: 400px;
+    box-shadow: 10px 1px 10px 5px;
+    background-image: linear-gradient(to right, #7a68bd, #c2c2c2);
+    border-radius: 13px;
+    padding-bottom: 20px;
+    margin: 20px;
+    padding: 20px;
+
+}
